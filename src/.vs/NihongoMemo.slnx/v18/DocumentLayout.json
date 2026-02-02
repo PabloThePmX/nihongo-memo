@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Pablo\\Documents\\Projetos\\fullstack\\nihongo-memo\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A37FC1-9C13-A699-05F6-4808A9EB7753}|NihongoMemo.Api\\NihongoMemo.Api.csproj|d:\\users\\pablo\\documents\\projetos\\fullstack\\nihongo-memo\\src\\nihongomemo.api\\endpoints\\kanaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A37FC1-9C13-A699-05F6-4808A9EB7753}|NihongoMemo.Api\\NihongoMemo.Api.csproj|solutionrelative:nihongomemo.api\\endpoints\\kanaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A37FC1-9C13-A699-05F6-4808A9EB7753}|NihongoMemo.Api\\NihongoMemo.Api.csproj|d:\\users\\pablo\\documents\\projetos\\fullstack\\nihongo-memo\\src\\nihongomemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A37FC1-9C13-A699-05F6-4808A9EB7753}|NihongoMemo.Api\\NihongoMemo.Api.csproj|solutionrelative:nihongomemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KanaEndpoints.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo\\Documents\\Projetos\\fullstack\\nihongo-memo\\src\\NihongoMemo.Api\\Endpoints\\KanaEndpoints.cs",
+              "RelativeDocumentMoniker": "NihongoMemo.Api\\Endpoints\\KanaEndpoints.cs",
+              "ToolTip": "D:\\Users\\Pablo\\Documents\\Projetos\\fullstack\\nihongo-memo\\src\\NihongoMemo.Api\\Endpoints\\KanaEndpoints.cs",
+              "RelativeToolTip": "NihongoMemo.Api\\Endpoints\\KanaEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:01:08.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo\\Documents\\Projetos\\fullstack\\nihongo-memo\\src\\NihongoMemo.Api\\Program.cs",
+              "RelativeDocumentMoniker": "NihongoMemo.Api\\Program.cs",
+              "ToolTip": "D:\\Users\\Pablo\\Documents\\Projetos\\fullstack\\nihongo-memo\\src\\NihongoMemo.Api\\Program.cs",
+              "RelativeToolTip": "NihongoMemo.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:29:38.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

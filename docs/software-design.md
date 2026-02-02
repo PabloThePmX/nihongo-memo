@@ -1,5 +1,4 @@
 # Software Design
-* https://stackoverflow.com/questions/704855/software-design-vs-software-architecture
 
 ## Backend
 * Endpoints:
@@ -12,6 +11,9 @@
   * It will call the api to send the filter selection to the backend.
 * Game
   * Start the game based on the api response, if endless, reshuffle the collection when the last one ends.
-  * Fill the options with the correct Kana together with other Kanas that are also present in the collection.
+    * Fill the options with the correct Kana together with other Kanas that are also present in the collection.
 * Cards
 * Finish Game
+
+-----
+* https://stackoverflow.com/questions/704855/software-design-vs-software-architecture
